@@ -24,12 +24,12 @@ I like to learn new tools and languages to improve my skills, and I am a motivat
 
 ## 📈 GitHub Stats 
 <p align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZuieS &theme=tokyonight&layout=compact">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZuieS&theme=tokyonight&layout=compact">
 </p>
 <p align = "center">
-      <img  src = "https://github-readme-stats.vercel.app/api?username=ZuieS &show_icons=true&theme=tokyonight">
+      <img  src = "https://github-readme-stats.vercel.app/api?username=ZuieS&show_icons=true&theme=tokyonight">
 </p>
 
 <p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ZuieS &theme=tokyonight">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ZuieS&theme=tokyonight">
 </p>
